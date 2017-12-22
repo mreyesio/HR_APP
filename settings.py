@@ -1,7 +1,7 @@
 SECRET_KEY = 'insert-long-random-key'
 DEBUG=True
 DB_USERNAME = 'root'
-DB_PASSWORD = 'Mrl7229?'
+DB_PASSWORD = ''
 HR_DATABASE_NAME ='hr'
 DB_HOST = '0.0.0.0'
 DB_URI = "mysql+pymysql://%s:%s@%s/%s" % (DB_USERNAME, DB_PASSWORD, DB_HOST, HR_DATABASE_NAME)
